@@ -1,0 +1,12 @@
+name: inclass-shinydashboard-data-attrition
+title: inclass-shinydashboard-data-attrition
+username:
+account: vicnp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3896712
+bundleId: 4420325
+url: https://vicnp.shinyapps.io/inclass-shinydashboard-data-attrition/
+when: 1617280961.62716
+asMultiple: FALSE
+asStatic: FALSE

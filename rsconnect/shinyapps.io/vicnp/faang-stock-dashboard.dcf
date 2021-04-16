@@ -1,0 +1,13 @@
+name: faang-stock-dashboard
+title: faang-stock-dashboard
+username:
+account: vicnp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3922905
+bundleId: 4457656
+url: https://vicnp.shinyapps.io/faang-stock-dashboard/
+when: 1618154732.80643
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: brief_template_new.Rmd|EDA Capstone 2.Rmd
